@@ -17,7 +17,7 @@ export default function RootLayout({
       <body className="antialiased">
         <Script 
           id="jabburr-ads-loader" 
-          src="https://d29d5ugadf9lhp.cloudfront.net/storage/ads/conversion.js"
+          src="https://d3qc2ex9mfq558.cloudfront.net/storage/ads/conversion.js"
           strategy="afterInteractive"
         />
 
